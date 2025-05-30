@@ -1,0 +1,11 @@
+command_id: 714.77E.221014
+test_cases:
+- response: '77E0462101483'
+  expected_values:
+    SEAT_AAT_V2: 81
+- response: 77E046210148B
+  expected_values:
+    SEAT_AAT_V2: 89
+- response: 77E046210148C
+  expected_values:
+    SEAT_AAT_V2: 90

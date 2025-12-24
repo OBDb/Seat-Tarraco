@@ -1,0 +1,12 @@
+command_id: 713.77D.221810|fc=1
+test_cases:
+- expected_values:
+    SEAT_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C62181001FFF6
+    77D21FD9000000000AA
+- expected_values:
+    SEAT_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C62181001FFF6
+    77D21FD9100000000AA

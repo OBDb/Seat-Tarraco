@@ -1,0 +1,14 @@
+command_id: 710.77A.222A09
+test_cases:
+- expected_values:
+    SEAT_BAT_I: 13777.153
+    SEAT_SSB_C: 0
+  response: 77A07622A09FFFFC135
+- expected_values:
+    SEAT_BAT_I: 13777.153
+    SEAT_SSB_C: 0
+  response: 77A07622A09FFFFC166
+- expected_values:
+    SEAT_BAT_I: 13777.153
+    SEAT_SSB_C: 0
+  response: 77A07622A09FFFFC179

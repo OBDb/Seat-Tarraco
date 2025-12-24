@@ -1,20 +1,26 @@
 command_id: 710.77A.222A07
 test_cases:
-- response: 77A05622A071FBA
-  expected_values:
+- expected_values:
+    SEAT_BAT_V_2A07: 12.122
     SEAT_SSB_V: 69.54
-- response: 77A05622A071FBE
-  expected_values:
+  response: 77A05622A071FBA
+- expected_values:
+    SEAT_BAT_V_2A07: 12.126
     SEAT_SSB_V: 69.54
-- response: 77A05622A071FC0
-  expected_values:
+  response: 77A05622A071FBE
+- expected_values:
+    SEAT_BAT_V_2A07: 12.128
     SEAT_SSB_V: 69.54
-- response: 77A05622A071FC4
-  expected_values:
+  response: 77A05622A071FC0
+- expected_values:
+    SEAT_BAT_V_2A07: 12.132
     SEAT_SSB_V: 69.54
-- response: 77A05622A071FC6
-  expected_values:
+  response: 77A05622A071FC4
+- expected_values:
+    SEAT_BAT_V_2A07: 12.134
     SEAT_SSB_V: 69.54
-- response: 77A05622A071FCA
-  expected_values:
+  response: 77A05622A071FC6
+- expected_values:
+    SEAT_BAT_V_2A07: 12.138
     SEAT_SSB_V: 69.54
+  response: 77A05622A071FCA

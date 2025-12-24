@@ -1,0 +1,5 @@
+command_id: 7E1.22101A
+test_cases:
+- expected_values:
+    SEAT_ODO_TCM_2: 63247
+  response: 7E90762101A0FF70000

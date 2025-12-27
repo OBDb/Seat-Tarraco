@@ -1,6 +1,34 @@
 command_id: 746.7B0.222613|fc=1
 test_cases:
 - expected_values:
+    SEAT_CABIN_T: 0.2
+    SEAT_HVAC_INTERIOR_T: 0.2
+  response: 7B0056226130002
+- expected_values:
+    SEAT_CABIN_T: 0.3
+    SEAT_HVAC_INTERIOR_T: 0.3
+  response: 7B0056226130003
+- expected_values:
+    SEAT_CABIN_T: 2.5
+    SEAT_HVAC_INTERIOR_T: 2.5
+  response: 7B0056226130019
+- expected_values:
+    SEAT_CABIN_T: 4.5
+    SEAT_HVAC_INTERIOR_T: 4.5
+  response: 7B005622613002D
+- expected_values:
+    SEAT_CABIN_T: 5.8
+    SEAT_HVAC_INTERIOR_T: 5.8
+  response: 7B005622613003A
+- expected_values:
     SEAT_CABIN_T: 6.2
     SEAT_HVAC_INTERIOR_T: 6.2
   response: 7B005622613003E
+- expected_values:
+    SEAT_CABIN_T: 6.7
+    SEAT_HVAC_INTERIOR_T: 6.7
+  response: 7B0056226130043
+- expected_values:
+    SEAT_CABIN_T: 7.1
+    SEAT_HVAC_INTERIOR_T: 7.1
+  response: 7B0056226130047

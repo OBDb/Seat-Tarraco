@@ -1,5 +1,20 @@
 command_id: 746.7B0.222611|fc=1
 test_cases:
 - expected_values:
+    SEAT_CLIMATE_LEG_DEFL_T: 1.332
+  response: 7B00462261104
+- expected_values:
     SEAT_CLIMATE_LEG_DEFL_T: 7.326
   response: 7B00462261116
+- expected_values:
+    SEAT_CLIMATE_LEG_DEFL_T: 32.301
+  response: 7B00462261161
+- expected_values:
+    SEAT_CLIMATE_LEG_DEFL_T: 42.291
+  response: 7B0046226117F
+- expected_values:
+    SEAT_CLIMATE_LEG_DEFL_T: 45.288
+  response: 7B00462261188
+- expected_values:
+    SEAT_CLIMATE_LEG_DEFL_T: 48.618
+  response: 7B00462261192

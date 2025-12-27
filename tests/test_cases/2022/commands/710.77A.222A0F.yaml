@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     SEAT_SSB_AH: 26
   response: 77A04622A0F1A
+- expected_values:
+    SEAT_SSB_AH: 31
+  response: 77A04622A0F1F
+- expected_values:
+    SEAT_SSB_AH: 32
+  response: 77A04622A0F20

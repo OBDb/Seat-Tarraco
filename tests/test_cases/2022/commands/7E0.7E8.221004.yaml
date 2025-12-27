@@ -3,3 +3,24 @@ test_cases:
 - expected_values:
     SEAT_AAT_V2: 0
   response: '7E8056210040000'
+- expected_values:
+    SEAT_AAT_V2: 0.78125
+  response: '7E8056210040064'
+- expected_values:
+    SEAT_AAT_V2: 2.26562
+  response: '7E8056210040122'
+- expected_values:
+    SEAT_AAT_V2: 7.14844
+  response: '7E8056210040393'
+- expected_values:
+    SEAT_AAT_V2: -1.26562
+  response: 7E805621004FF5E
+- expected_values:
+    SEAT_AAT_V2: -0.53125
+  response: 7E805621004FFBC
+- expected_values:
+    SEAT_AAT_V2: -0.35156
+  response: 7E805621004FFD3
+- expected_values:
+    SEAT_AAT_V2: -0.23438
+  response: 7E805621004FFE2

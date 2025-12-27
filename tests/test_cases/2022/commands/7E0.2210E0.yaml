@@ -4,3 +4,15 @@ test_cases:
     SEAT_ODO_2_V2: 63247
     SEAT_ODO_V3: 63247
   response: 7E8076210E00000F70F
+- expected_values:
+    SEAT_ODO_2_V2: 63273
+    SEAT_ODO_V3: 63273
+  response: 7E8076210E00000F729
+- expected_values:
+    SEAT_ODO_2_V2: 63274
+    SEAT_ODO_V3: 63274
+  response: 7E8076210E00000F72A
+- expected_values:
+    SEAT_ODO_2_V2: 63275
+    SEAT_ODO_V3: 63275
+  response: 7E8076210E00000F72B

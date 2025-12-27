@@ -10,6 +10,9 @@ test_cases:
     SEAT_CLIMATE_RR_DEFL_T: 8.991
   response: 7B00462263D1B
 - expected_values:
+    SEAT_CLIMATE_RR_DEFL_T: 10.323
+  response: 7B00462263D1F
+- expected_values:
     SEAT_CLIMATE_RR_DEFL_T: 15.318
   response: 7B00462263D2E
 - expected_values:

@@ -4,5 +4,8 @@ test_cases:
     SEAT_AAT_CABIN: -49
   response: 7B00462260A02
 - expected_values:
+    SEAT_AAT_CABIN: -47
+  response: 7B00462260A06
+- expected_values:
     SEAT_AAT_CABIN: -45.5
   response: 7B00462260A09

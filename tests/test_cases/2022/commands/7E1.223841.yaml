@@ -1,6 +1,9 @@
 command_id: 7E1.223841
 test_cases:
 - expected_values:
+    SEAT_ODO_TCM_1: 629510
+  response: 7E907623841069B0900
+- expected_values:
     SEAT_ODO_TCM_1: 629128
   response: '7E90762384188990900'
 - expected_values:

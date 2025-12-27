@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     SEAT_SSB_V_REST: 15.98824
   response: 77A04622A1021
+- expected_values:
+    SEAT_SSB_V_REST: 16.41176
+  response: 77A04622A1023

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     SEAT_CLIMATE_FR_L_T_FLP_ACT_VALUE: 100
   response: 7B006622622038FC8
+- expected_values:
+    SEAT_CLIMATE_FR_L_T_FLP_ACT_VALUE: 100
+  response: 7B0066226220390C8

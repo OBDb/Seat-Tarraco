@@ -1,5 +1,29 @@
 command_id: 7E0.7E8.22028D
 test_cases:
 - expected_values:
+    SEAT_ECU_TEMP: 277.1
+  response: 7E80562028D0AD3
+- expected_values:
+    SEAT_ECU_TEMP: 279.1
+  response: 7E80562028D0AE7
+- expected_values:
+    SEAT_ECU_TEMP: 279.8
+  response: 7E80562028D0AEE
+- expected_values:
+    SEAT_ECU_TEMP: 280.5
+  response: 7E80562028D0AF5
+- expected_values:
+    SEAT_ECU_TEMP: 281
+  response: 7E80562028D0AFA
+- expected_values:
+    SEAT_ECU_TEMP: 281.3
+  response: 7E80562028D0AFD
+- expected_values:
+    SEAT_ECU_TEMP: 281.7
+  response: 7E80562028D0B01
+- expected_values:
+    SEAT_ECU_TEMP: 282.2
+  response: 7E80562028D0B06
+- expected_values:
     SEAT_ECU_TEMP: 291.7
   response: 7E80562028D0B65

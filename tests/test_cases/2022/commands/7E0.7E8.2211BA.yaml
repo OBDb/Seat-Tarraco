@@ -1,6 +1,42 @@
 command_id: 7E0.7E8.2211BA
 test_cases:
 - expected_values:
+    SEAT_OIL_LEVEL: 4.968
+    SEAT_OIL_LVL: 49.68
+  response: 7E8056211BA3084
+- expected_values:
+    SEAT_OIL_LEVEL: 4.97
+    SEAT_OIL_LVL: 49.7
+  response: 7E8056211BA3089
+- expected_values:
+    SEAT_OIL_LEVEL: 5.126
+    SEAT_OIL_LVL: 51.26
+  response: 7E8056211BA320F
+- expected_values:
+    SEAT_OIL_LEVEL: 5.188
+    SEAT_OIL_LVL: 51.88
+  response: 7E8056211BA32AA
+- expected_values:
+    SEAT_OIL_LEVEL: 5.27
+    SEAT_OIL_LVL: 52.7
+  response: 7E8056211BA3377
+- expected_values:
+    SEAT_OIL_LEVEL: 5.282
+    SEAT_OIL_LVL: 52.82
+  response: 7E8056211BA3395
+- expected_values:
+    SEAT_OIL_LEVEL: 5.736
+    SEAT_OIL_LVL: 57.36
+  response: 7E8056211BA3804
+- expected_values:
+    SEAT_OIL_LEVEL: 5.76
+    SEAT_OIL_LVL: 57.6
+  response: 7E8056211BA3840
+- expected_values:
     SEAT_OIL_LEVEL: 6.278
     SEAT_OIL_LVL: 62.78
   response: 7E8056211BA3D4F
+- expected_values:
+    SEAT_OIL_LEVEL: 6.472
+    SEAT_OIL_LVL: 64.72
+  response: 7E8056211BA3F34

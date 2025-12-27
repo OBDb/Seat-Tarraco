@@ -4,3 +4,11 @@ test_cases:
     SEAT_AAT_V3: 50
     SEAT_DASH_AMBIENT_AIR_T: 0
   response: '77E0462101464'
+- expected_values:
+    SEAT_AAT_V3: 52
+    SEAT_DASH_AMBIENT_AIR_T: 1
+  response: '77E0462101466'
+- expected_values:
+    SEAT_AAT_V3: 54
+    SEAT_DASH_AMBIENT_AIR_T: 2
+  response: '77E0462101468'

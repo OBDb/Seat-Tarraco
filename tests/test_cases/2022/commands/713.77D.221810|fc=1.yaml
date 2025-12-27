@@ -3,6 +3,46 @@ test_cases:
 - expected_values:
     SEAT_HYD_BRAKE_BOOST_ACTIVE: 0
   response: |-
+    77D100C621810010334
+    77D21FD1100000318AA
+- expected_values:
+    SEAT_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C621810010654
+    77D21FD4C00000276AA
+- expected_values:
+    SEAT_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C62181001FFEC
+    77D21FD65000001C2AA
+- expected_values:
+    SEAT_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C62181001FFEC
+    77D21FD6500000288AA
+- expected_values:
+    SEAT_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C62181001FFF6
+    77D21FD370000019EAA
+- expected_values:
+    SEAT_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C62181001FFF6
+    77D21FD6500000276AA
+- expected_values:
+    SEAT_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C62181001FFF6
+    77D21FD750000021CAA
+- expected_values:
+    SEAT_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C62181001FFF6
+    77D21FD7F00000090AA
+- expected_values:
+    SEAT_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
     77D100C62181001FFF6
     77D21FD9000000000AA
 - expected_values:

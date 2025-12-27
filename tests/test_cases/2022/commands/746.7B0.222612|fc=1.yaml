@@ -1,5 +1,20 @@
 command_id: 746.7B0.222612|fc=1
 test_cases:
 - expected_values:
+    SEAT_CLIMATE_T_AFTER_EVAP: 2.331
+  response: 7B00462261207
+- expected_values:
+    SEAT_CLIMATE_T_AFTER_EVAP: 2.664
+  response: 7B00462261208
+- expected_values:
+    SEAT_CLIMATE_T_AFTER_EVAP: 2.997
+  response: 7B00462261209
+- expected_values:
+    SEAT_CLIMATE_T_AFTER_EVAP: 3.33
+  response: 7B0046226120A
+- expected_values:
+    SEAT_CLIMATE_T_AFTER_EVAP: 3.663
+  response: 7B0046226120B
+- expected_values:
     SEAT_CLIMATE_T_AFTER_EVAP: 10.989
   response: 7B00462261221

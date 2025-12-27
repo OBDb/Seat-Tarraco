@@ -4,3 +4,11 @@ test_cases:
     SEAT_BAT_SOC: 67
     SEAT_SSB_SOC: 67
   response: 77A04622A0C43
+- expected_values:
+    SEAT_BAT_SOC: 80
+    SEAT_SSB_SOC: 80
+  response: 77A04622A0C50
+- expected_values:
+    SEAT_BAT_SOC: 81
+    SEAT_SSB_SOC: 81
+  response: 77A04622A0C51

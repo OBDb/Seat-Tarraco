@@ -1,5 +1,23 @@
 command_id: 746.7B0.22260C|fc=1
 test_cases:
 - expected_values:
+    SEAT_CLIMATE_FR_L_DEFL_T: 1.332
+  response: 7B00462260C04
+- expected_values:
     SEAT_CLIMATE_FR_L_DEFL_T: 9.324
   response: 7B00462260C1C
+- expected_values:
+    SEAT_CLIMATE_FR_L_DEFL_T: 11.322
+  response: 7B00462260C22
+- expected_values:
+    SEAT_CLIMATE_FR_L_DEFL_T: 29.97
+  response: 7B00462260C5A
+- expected_values:
+    SEAT_CLIMATE_FR_L_DEFL_T: 34.299
+  response: 7B00462260C67
+- expected_values:
+    SEAT_CLIMATE_FR_L_DEFL_T: 35.298
+  response: 7B00462260C6A
+- expected_values:
+    SEAT_CLIMATE_FR_L_DEFL_T: 37.629
+  response: 7B00462260C71

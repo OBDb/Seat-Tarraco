@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     SEAT_VSS: 44
   response: 7E80462F40D2C
+- expected_values:
+    SEAT_VSS: 57
+  response: 7E80462F40D39

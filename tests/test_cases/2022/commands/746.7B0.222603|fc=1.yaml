@@ -16,5 +16,8 @@ test_cases:
     SEAT_CLIMATE_A_C_COMP_SPD: 1800
   response: 7B00462260312
 - expected_values:
+    SEAT_CLIMATE_A_C_COMP_SPD: 1900
+  response: 7B00462260313
+- expected_values:
     SEAT_CLIMATE_A_C_COMP_SPD: 2200
   response: 7B00462260316

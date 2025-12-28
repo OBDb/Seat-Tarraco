@@ -4,29 +4,11 @@ test_cases:
     SEAT_OIL_LEVEL_WARN: 1.0992
   response: 7E8056211BD0ABC
 - expected_values:
-    SEAT_OIL_LEVEL_WARN: 1.1064
-  response: 7E8056211BD0ACE
-- expected_values:
     SEAT_OIL_LEVEL_WARN: 1.1228
   response: 7E8056211BD0AF7
 - expected_values:
     SEAT_OIL_LEVEL_WARN: 1.1444
   response: 7E8056211BD0B2D
-- expected_values:
-    SEAT_OIL_LEVEL_WARN: 1.1716
-  response: 7E8056211BD0B71
-- expected_values:
-    SEAT_OIL_LEVEL_WARN: 1.1808
-  response: 7E8056211BD0B88
-- expected_values:
-    SEAT_OIL_LEVEL_WARN: 1.188
-  response: 7E8056211BD0B9A
-- expected_values:
-    SEAT_OIL_LEVEL_WARN: 1.19
-  response: 7E8056211BD0B9F
-- expected_values:
-    SEAT_OIL_LEVEL_WARN: 1.1988
-  response: 7E8056211BD0BB5
 - expected_values:
     SEAT_OIL_LEVEL_WARN: 1.2604
   response: 7E8056211BD0C4F

@@ -8,8 +8,18 @@ test_cases:
 - expected_values:
     SEAT_HYD_BRAKE_BOOST_ACTIVE: 0
   response: |-
+    77D100C6218100104CE
+    77D21FD300000020AAA
+- expected_values:
+    SEAT_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
     77D100C62181001FFEC
     77D21FD65000001C2AA
+- expected_values:
+    SEAT_HYD_BRAKE_BOOST_ACTIVE: 0
+  response: |-
+    77D100C62181001FFEC
+    77D21FD6600000120AA
 - expected_values:
     SEAT_HYD_BRAKE_BOOST_ACTIVE: 0
   response: |-

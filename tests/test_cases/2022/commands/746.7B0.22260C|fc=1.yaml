@@ -4,6 +4,9 @@ test_cases:
     SEAT_CLIMATE_FR_L_DEFL_T: 1.332
   response: 7B00462260C04
 - expected_values:
+    SEAT_CLIMATE_FR_L_DEFL_T: 3.33
+  response: 7B00462260C0A
+- expected_values:
     SEAT_CLIMATE_FR_L_DEFL_T: 9.324
   response: 7B00462260C1C
 - expected_values:

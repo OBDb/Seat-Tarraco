@@ -1,6 +1,9 @@
 command_id: 746.7B0.222609|fc=1
 test_cases:
 - expected_values:
+    SEAT_AAT: 0.5
+  response: 7B00462260901
+- expected_values:
     SEAT_AAT: 1
   response: 7B00462260902
 - expected_values:

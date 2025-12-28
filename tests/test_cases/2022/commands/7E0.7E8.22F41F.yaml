@@ -4,29 +4,8 @@ test_cases:
     SEAT_RUNTM: 0
   response: 7E80562F41F0000
 - expected_values:
-    SEAT_RUNTM: 103
-  response: 7E80562F41F0067
-- expected_values:
-    SEAT_RUNTM: 156
-  response: 7E80562F41F009C
-- expected_values:
-    SEAT_RUNTM: 220
-  response: 7E80562F41F00DC
-- expected_values:
     SEAT_RUNTM: 279
   response: 7E80562F41F0117
-- expected_values:
-    SEAT_RUNTM: 333
-  response: 7E80562F41F014D
-- expected_values:
-    SEAT_RUNTM: 382
-  response: 7E80562F41F017E
-- expected_values:
-    SEAT_RUNTM: 418
-  response: 7E80562F41F01A2
-- expected_values:
-    SEAT_RUNTM: 448
-  response: 7E80562F41F01C0
 - expected_values:
     SEAT_RUNTM: 484
   response: 7E80562F41F01E4

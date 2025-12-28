@@ -7,6 +7,9 @@ test_cases:
     SEAT_SSB_SENSOR_T: 4
   response: 77A04622A0A2C
 - expected_values:
+    SEAT_SSB_SENSOR_T: 6
+  response: 77A04622A0A2E
+- expected_values:
     SEAT_SSB_SENSOR_T: 16
   response: 77A04622A0A38
 - expected_values:

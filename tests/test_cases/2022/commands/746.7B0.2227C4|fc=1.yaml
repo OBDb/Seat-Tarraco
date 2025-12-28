@@ -1,6 +1,12 @@
 command_id: 746.7B0.2227C4|fc=1
 test_cases:
 - expected_values:
+    SEAT_HVAC_INSIDE_HUM: 42
+    SEAT_WNDSHLD_TEMP: -38.224
+  response: |-
+    7B010096227C4016501
+    7B021A15482AAAAAAAA
+- expected_values:
     SEAT_HVAC_INSIDE_HUM: 41
     SEAT_WNDSHLD_TEMP: -38.224
   response: |-

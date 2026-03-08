@@ -2,19 +2,25 @@ command_id: 746.7B0.222609|fc=1
 test_cases:
 - expected_values:
     SEAT_AAT: 0.5
+    SEAT_PQ35_OUT_T: 0.5
   response: 7B00462260901
 - expected_values:
     SEAT_AAT: 1
+    SEAT_PQ35_OUT_T: 1
   response: 7B00462260902
 - expected_values:
     SEAT_AAT: 2
+    SEAT_PQ35_OUT_T: 2
   response: 7B00462260904
 - expected_values:
     SEAT_AAT: 2.5
+    SEAT_PQ35_OUT_T: 2.5
   response: 7B00462260905
 - expected_values:
     SEAT_AAT: 4
+    SEAT_PQ35_OUT_T: 4
   response: 7B00462260908
 - expected_values:
     SEAT_AAT: 4.5
+    SEAT_PQ35_OUT_T: 4.5
   response: 7B00462260909

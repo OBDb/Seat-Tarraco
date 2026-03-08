@@ -1,23 +1,30 @@
-command_id: 7E1.7E9.222104
+command_id: 7E1.222104
 test_cases:
 - expected_values:
     SEAT_ATF_T: -32
+    SEAT_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 8
   response: '7E9056221040800'
 - expected_values:
     SEAT_ATF_T: -24
+    SEAT_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 16
   response: '7E9056221041000'
 - expected_values:
     SEAT_ATF_T: -15
+    SEAT_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 25
   response: '7E9056221041900'
 - expected_values:
     SEAT_ATF_T: -12
+    SEAT_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 28
   response: 7E9056221041C00
 - expected_values:
     SEAT_ATF_T: -9
+    SEAT_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 31
   response: 7E9056221041F00
 - expected_values:
     SEAT_ATF_T: -7
+    SEAT_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 33
   response: '7E9056221042100'
 - expected_values:
     SEAT_ATF_T: -4
+    SEAT_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 36
   response: '7E9056221042400'

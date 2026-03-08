@@ -1,17 +1,17 @@
 command_id: 7E1.223887
 test_cases:
 - expected_values:
-    SEAT_ODO_TCM_2_HD: 124909.3
+    SEAT_MQB_TCM_ODO_2: 124909.3
   response: 7E907623887450F1300
 - expected_values:
-    SEAT_ODO_TCM_2_HD: 124909.4
+    SEAT_MQB_TCM_ODO_2: 124909.4
   response: 7E907623887460F1300
 - expected_values:
-    SEAT_ODO_TCM_2_HD: 124909.5
+    SEAT_MQB_TCM_ODO_2: 124909.5
   response: 7E907623887470F1300
 - expected_values:
-    SEAT_ODO_TCM_2_HD: 124911.5
+    SEAT_MQB_TCM_ODO_2: 124911.5
   response: 7E9076238875B0F1300
 - expected_values:
-    SEAT_ODO_TCM_2_HD: 124911.6
+    SEAT_MQB_TCM_ODO_2: 124911.6
   response: 7E9076238875C0F1300

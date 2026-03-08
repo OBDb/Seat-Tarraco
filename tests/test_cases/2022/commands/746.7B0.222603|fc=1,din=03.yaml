@@ -1,23 +1,23 @@
-command_id: 746.7B0.222603|fc=1
+command_id: 746.7B0.222603|fc=1,din=03
 test_cases:
 - expected_values:
-    SEAT_CLIMATE_A_C_COMP_SPD: 0
+    SEAT_PQ35_AC_COMP_SPD: 0
   response: 7B00462260300
 - expected_values:
-    SEAT_CLIMATE_A_C_COMP_SPD: 800
+    SEAT_PQ35_AC_COMP_SPD: 800
   response: 7B00462260308
 - expected_values:
-    SEAT_CLIMATE_A_C_COMP_SPD: 900
+    SEAT_PQ35_AC_COMP_SPD: 900
   response: 7B00462260309
 - expected_values:
-    SEAT_CLIMATE_A_C_COMP_SPD: 1000
+    SEAT_PQ35_AC_COMP_SPD: 1000
   response: 7B0046226030A
 - expected_values:
-    SEAT_CLIMATE_A_C_COMP_SPD: 1800
+    SEAT_PQ35_AC_COMP_SPD: 1800
   response: 7B00462260312
 - expected_values:
-    SEAT_CLIMATE_A_C_COMP_SPD: 1900
+    SEAT_PQ35_AC_COMP_SPD: 1900
   response: 7B00462260313
 - expected_values:
-    SEAT_CLIMATE_A_C_COMP_SPD: 2200
+    SEAT_PQ35_AC_COMP_SPD: 2200
   response: 7B00462260316

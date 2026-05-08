@@ -28,3 +28,11 @@ test_cases:
     SEAT_ATF_T: -4
     SEAT_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 36
   response: '7E9056221042400'
+- expected_values:
+    SEAT_ATF_T: 40
+    SEAT_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 80
+  response: '7E9056221045000'
+- expected_values:
+    SEAT_ATF_T: 44
+    SEAT_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 84
+  response: '7E9056221045400'

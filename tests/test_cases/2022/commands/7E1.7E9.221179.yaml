@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221179
+test_cases:
+- expected_values:
+    SEAT_MQB_DQ250_GEAR_SELECTOR_SYNCHRONOUS_POS_G1: 55.35
+  response: 7E9056211799F15

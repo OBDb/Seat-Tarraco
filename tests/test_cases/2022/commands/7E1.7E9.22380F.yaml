@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22380F
+test_cases:
+- expected_values:
+    SEAT_MQB_OUTPUT_SHAFT_2: 19969
+  response: 7E90562380F4E01
+- expected_values:
+    SEAT_MQB_OUTPUT_SHAFT_2: -28927
+  response: 7E90562380F8F01

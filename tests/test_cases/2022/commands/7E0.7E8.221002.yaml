@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     SEAT_AC_COMP_T: 0
   response: '7E8056210020000'
+- expected_values:
+    SEAT_AC_COMP_T: 6
+  response: 7E805621002003C
+- expected_values:
+    SEAT_AC_COMP_T: 7
+  response: '7E8056210020046'

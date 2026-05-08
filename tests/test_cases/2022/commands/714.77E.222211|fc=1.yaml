@@ -1,0 +1,8 @@
+command_id: 714.77E.222211|fc=1
+test_cases:
+- expected_values:
+    SEAT_PQ35_CHG_AIR_P: 5.09804
+  response: 77E046222110D
+- expected_values:
+    SEAT_PQ35_CHG_AIR_P: 9.01961
+  response: '77E0462221117'

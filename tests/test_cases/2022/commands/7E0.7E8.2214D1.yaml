@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2214D1
+test_cases:
+- expected_values:
+    SEAT_PQ35_PRE_INJ_2_DURATION: 12.2876
+  response: 7E8056214D177FF
+- expected_values:
+    SEAT_PQ35_PRE_INJ_2_DURATION: -11.9812
+  response: 7E8056214D18AFF
+- expected_values:
+    SEAT_PQ35_PRE_INJ_2_DURATION: -4.0964
+  response: 7E8056214D1D7FF

@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     SEAT_PQ35_AC_COMP_LOAD: 0
   response: 7B00462260400
+- expected_values:
+    SEAT_PQ35_AC_COMP_LOAD: 6.5
+  response: 7B00462260441
+- expected_values:
+    SEAT_PQ35_AC_COMP_LOAD: 6.9
+  response: 7B00462260445
+- expected_values:
+    SEAT_PQ35_AC_COMP_LOAD: 7.4
+  response: 7B0046226044A

@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22100B
+test_cases:
+- expected_values:
+    SEAT_MQB_TCM_DRIVER_DEMAND_TORQUE: 1177.75
+  response: 7E90562100B5C03
+- expected_values:
+    SEAT_MQB_TCM_DRIVER_DEMAND_TORQUE: -716.55
+  response: 7E90562100BC805

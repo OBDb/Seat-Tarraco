@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22100A
+test_cases:
+- expected_values:
+    SEAT_MQB_DQ250_VEHICLE_SPD_FROM_TRANSMISSION: 53.4
+  response: 7E90562100A1602
+- expected_values:
+    SEAT_MQB_DQ250_VEHICLE_SPD_FROM_TRANSMISSION: 45.2
+  response: 7E90562100AC401

@@ -1,6 +1,15 @@
 command_id: 7E0.7E8.22F431
 test_cases:
 - expected_values:
+    SEAT_CLR_DIST: 9353
+  response: 7E80562F4312489
+- expected_values:
+    SEAT_CLR_DIST: 9355
+  response: 7E80562F431248B
+- expected_values:
+    SEAT_CLR_DIST: 9357
+  response: 7E80562F431248D
+- expected_values:
     SEAT_CLR_DIST: 39383
   response: 7E80562F43199D7
 - expected_values:

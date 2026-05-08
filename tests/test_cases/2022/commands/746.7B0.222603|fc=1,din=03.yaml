@@ -13,6 +13,9 @@ test_cases:
     SEAT_PQ35_AC_COMP_SPD: 1000
   response: 7B0046226030A
 - expected_values:
+    SEAT_PQ35_AC_COMP_SPD: 1500
+  response: 7B0046226030F
+- expected_values:
     SEAT_PQ35_AC_COMP_SPD: 1800
   response: 7B00462260312
 - expected_values:

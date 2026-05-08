@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221282
+test_cases:
+- expected_values:
+    SEAT_EXHAUST_GAS_T_BEFORE_CATALYST: 424.87
+  response: 7E80562128278DC
+- expected_values:
+    SEAT_EXHAUST_GAS_T_BEFORE_CATALYST: 430.43
+  response: 7E80562128279F2
+- expected_values:
+    SEAT_EXHAUST_GAS_T_BEFORE_CATALYST: 448.81
+  response: 7E8056212827D89

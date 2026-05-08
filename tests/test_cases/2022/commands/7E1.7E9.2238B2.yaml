@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.2238B2
+test_cases:
+- expected_values:
+    SEAT_PQ35_CENTRIFUGAL_OIL_T: 81
+  response: 7E9056238B25100
+- expected_values:
+    SEAT_PQ35_CENTRIFUGAL_OIL_T: 85
+  response: 7E9056238B25500

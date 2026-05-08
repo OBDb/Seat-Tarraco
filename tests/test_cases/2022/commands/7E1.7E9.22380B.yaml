@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22380B
+test_cases:
+- expected_values:
+    SEAT_MQB_TCM_TRANSMISSION_OUTPUT_SPD_7E1_380B: 323
+  response: 7E90562380B4301
+- expected_values:
+    SEAT_MQB_TCM_TRANSMISSION_OUTPUT_SPD_7E1_380B: 421
+  response: 7E90562380BA501

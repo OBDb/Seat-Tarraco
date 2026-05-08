@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22383D
+test_cases:
+- expected_values:
+    SEAT_MQB_DQ250_CLUTCH_2_VALVE_I_SPECIFIED: 544.4
+  response: 7E90562383D4415
+- expected_values:
+    SEAT_MQB_DQ250_CLUTCH_2_VALVE_I_SPECIFIED: 86.8
+  response: 7E90562383D6403

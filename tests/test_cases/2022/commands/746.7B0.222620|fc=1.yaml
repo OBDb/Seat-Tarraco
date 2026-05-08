@@ -1,5 +1,8 @@
 command_id: 746.7B0.222620|fc=1
 test_cases:
 - expected_values:
+    SEAT_MQB_RECIRC_FLAP_FRESH_THR: 168
+  response: 7B00562262000A8
+- expected_values:
     SEAT_MQB_RECIRC_FLAP_FRESH_THR: 174
   response: 7B00562262000AE

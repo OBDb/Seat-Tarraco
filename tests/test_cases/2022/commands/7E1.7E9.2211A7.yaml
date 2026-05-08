@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.2211A7
+test_cases:
+- expected_values:
+    SEAT_MQB_DQ250_CORRECTION_VALUES_MAIN_P_ADAPT: 0.7
+  response: 7E9056211A74600

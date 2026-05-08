@@ -1,0 +1,14 @@
+command_id: 7E0.221139
+test_cases:
+- expected_values:
+    SEAT_MEAN_INJ_QUANTITY: 153.5
+    SEAT_PQ35_AVG_CYCLE_CON: 153.5
+  response: 7E8056211393BF6
+- expected_values:
+    SEAT_MEAN_INJ_QUANTITY: 162.86
+    SEAT_PQ35_AVG_CYCLE_CON: 162.86
+  response: 7E8056211393F9E
+- expected_values:
+    SEAT_MEAN_INJ_QUANTITY: 204.7
+    SEAT_PQ35_AVG_CYCLE_CON: 204.7
+  response: 7E8056211394FF6

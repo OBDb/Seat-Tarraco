@@ -1,9 +1,17 @@
 command_id: 710.77A.222A00|fc=1
 test_cases:
 - expected_values:
+    SEAT_MQB_GEN_TRG_V: 13
+    SEAT_SSB_VT: 13
+  response: 77A04622A0018
+- expected_values:
     SEAT_MQB_GEN_TRG_V: 14
     SEAT_SSB_VT: 14
   response: 77A04622A0022
+- expected_values:
+    SEAT_MQB_GEN_TRG_V: 14.8
+    SEAT_SSB_VT: 14.8
+  response: 77A04622A002A
 - expected_values:
     SEAT_MQB_GEN_TRG_V: 15
     SEAT_SSB_VT: 15

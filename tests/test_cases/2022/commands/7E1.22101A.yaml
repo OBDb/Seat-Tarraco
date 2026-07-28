@@ -24,3 +24,19 @@ test_cases:
     SEAT_ODO_TCM_2: 63294
     SEAT_PQ35_ODO_3: 4126464
   response: 7E90762101A3EF70000
+- expected_values:
+    SEAT_ODO_TCM_2: 75994
+    SEAT_PQ35_ODO_3: 14297089
+  response: 7E90762101ADA280100
+- expected_values:
+    SEAT_ODO_TCM_2: 75997
+    SEAT_PQ35_ODO_3: 14493697
+  response: 7E90762101ADD280100
+- expected_values:
+    SEAT_ODO_TCM_2: 75999
+    SEAT_PQ35_ODO_3: 14624769
+  response: 7E90762101ADF280100
+- expected_values:
+    SEAT_ODO_TCM_2: 76001
+    SEAT_PQ35_ODO_3: 14755841
+  response: 7E90762101AE1280100

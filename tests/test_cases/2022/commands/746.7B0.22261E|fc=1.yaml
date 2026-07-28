@@ -1,6 +1,22 @@
 command_id: 746.7B0.22261E|fc=1
 test_cases:
 - expected_values:
+    SEAT_MQB_RECIRC_FLAP_ACT: 426
+    SEAT_RECIRC_FLAP_ACT_PCT: 37
+  response: 7B00662261E01AA4A
+- expected_values:
+    SEAT_MQB_RECIRC_FLAP_ACT: 434
+    SEAT_RECIRC_FLAP_ACT_PCT: 38.5
+  response: 7B00662261E01B24D
+- expected_values:
+    SEAT_MQB_RECIRC_FLAP_ACT: 438
+    SEAT_RECIRC_FLAP_ACT_PCT: 39
+  response: 7B00662261E01B64E
+- expected_values:
+    SEAT_MQB_RECIRC_FLAP_ACT: 610
+    SEAT_RECIRC_FLAP_ACT_PCT: 64.5
+  response: 7B00662261E026281
+- expected_values:
     SEAT_MQB_RECIRC_FLAP_ACT: 630
     SEAT_RECIRC_FLAP_ACT_PCT: 67.5
   response: 7B00662261E027687

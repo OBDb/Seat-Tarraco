@@ -5,34 +5,14 @@ test_cases:
     SEAT_ODO_V3: 63247
   response: 7E8076210E00000F70F
 - expected_values:
-    SEAT_ODO_2: 63273
-    SEAT_ODO_V3: 63273
-  response: 7E8076210E00000F729
-- expected_values:
-    SEAT_ODO_2: 63274
-    SEAT_ODO_V3: 63274
-  response: 7E8076210E00000F72A
-- expected_values:
-    SEAT_ODO_2: 63275
-    SEAT_ODO_V3: 63275
-  response: 7E8076210E00000F72B
-- expected_values:
-    SEAT_ODO_2: 63284
-    SEAT_ODO_V3: 63284
-  response: 7E8076210E00000F734
-- expected_values:
-    SEAT_ODO_2: 63294
-    SEAT_ODO_V3: 63294
-  response: 7E8076210E00000F73E
-- expected_values:
     SEAT_ODO_2: 71465
     SEAT_ODO_V3: 71465
   response: 7E8076210E000011729
 - expected_values:
-    SEAT_ODO_2: 71466
-    SEAT_ODO_V3: 71466
-  response: 7E8076210E00001172A
+    SEAT_ODO_2: 75994
+    SEAT_ODO_V3: 75994
+  response: 7E8076210E0000128DA
 - expected_values:
-    SEAT_ODO_2: 71468
-    SEAT_ODO_V3: 71468
-  response: 7E8076210E00001172C
+    SEAT_ODO_2: 76001
+    SEAT_ODO_V3: 76001
+  response: 7E8076210E0000128E1

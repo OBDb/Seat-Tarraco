@@ -29,7 +29,7 @@ test_cases:
     SEAT_MQB_HYD_BRK_BST_ACT: 0
   response: |-
     77D100C62181001FFF6
-    77D21FD370000019EAA
+    77D21FD34000002BEAA
 - expected_values:
     SEAT_MQB_HYD_BRK_BST_ACT: 0
   response: |-

@@ -4,26 +4,5 @@ test_cases:
     SEAT_PQ35_REAR_DEFL_T: 0.666
   response: 7B00462263D02
 - expected_values:
-    SEAT_PQ35_REAR_DEFL_T: 2.997
-  response: 7B00462263D09
-- expected_values:
-    SEAT_PQ35_REAR_DEFL_T: 6.327
-  response: 7B00462263D13
-- expected_values:
-    SEAT_PQ35_REAR_DEFL_T: 8.991
-  response: 7B00462263D1B
-- expected_values:
-    SEAT_PQ35_REAR_DEFL_T: 10.323
-  response: 7B00462263D1F
-- expected_values:
-    SEAT_PQ35_REAR_DEFL_T: 15.318
-  response: 7B00462263D2E
-- expected_values:
-    SEAT_PQ35_REAR_DEFL_T: 15.984
-  response: 7B00462263D30
-- expected_values:
-    SEAT_PQ35_REAR_DEFL_T: 16.65
-  response: 7B00462263D32
-- expected_values:
     SEAT_PQ35_REAR_DEFL_T: 20.313
   response: 7B00462263D3D

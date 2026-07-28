@@ -4,5 +4,8 @@ test_cases:
     SEAT_PQ35_AC_CLUTCH: 0
   response: 7B00462482B00
 - expected_values:
+    SEAT_PQ35_AC_CLUTCH: 1
+  response: 7B00462482B01
+- expected_values:
     SEAT_PQ35_AC_CLUTCH: 255
   response: 7B00462482BFF

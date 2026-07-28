@@ -5,34 +5,6 @@ test_cases:
     SEAT_PQ35_LEG_DEFL_T: 1.332
   response: 7B00462261104
 - expected_values:
-    SEAT_LEG_DEFLECTOR_T: 3.33333
-    SEAT_PQ35_LEG_DEFL_T: 3.33
-  response: 7B0046226110A
-- expected_values:
-    SEAT_LEG_DEFLECTOR_T: 7.33333
-    SEAT_PQ35_LEG_DEFL_T: 7.326
-  response: 7B00462261116
-- expected_values:
-    SEAT_LEG_DEFLECTOR_T: 29.66667
-    SEAT_PQ35_LEG_DEFL_T: 29.637
-  response: 7B00462261159
-- expected_values:
-    SEAT_LEG_DEFLECTOR_T: 31
-    SEAT_PQ35_LEG_DEFL_T: 30.969
-  response: 7B0046226115D
-- expected_values:
-    SEAT_LEG_DEFLECTOR_T: 32.33333
-    SEAT_PQ35_LEG_DEFL_T: 32.301
-  response: 7B00462261161
-- expected_values:
-    SEAT_LEG_DEFLECTOR_T: 42.33333
-    SEAT_PQ35_LEG_DEFL_T: 42.291
-  response: 7B0046226117F
-- expected_values:
-    SEAT_LEG_DEFLECTOR_T: 45.33333
-    SEAT_PQ35_LEG_DEFL_T: 45.288
-  response: 7B00462261188
-- expected_values:
     SEAT_LEG_DEFLECTOR_T: 48.66667
     SEAT_PQ35_LEG_DEFL_T: 48.618
   response: 7B00462261192

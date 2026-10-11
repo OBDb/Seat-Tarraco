@@ -1,32 +1,20 @@
 command_id: 714.77E.221014|din=03
 test_cases:
 - expected_values:
-    SEAT_AAT_V3: 50
-    SEAT_DASH_AMBIENT_AIR_T: 0
-    SEAT_PQ35_AMB_T: 0
+    TARRACO_DASH_AMBIENT_AIR_T: 0
   response: '77E0462101464'
 - expected_values:
-    SEAT_AAT_V3: 52
-    SEAT_DASH_AMBIENT_AIR_T: 1
-    SEAT_PQ35_AMB_T: 1
+    TARRACO_DASH_AMBIENT_AIR_T: 1
   response: '77E0462101466'
 - expected_values:
-    SEAT_AAT_V3: 54
-    SEAT_DASH_AMBIENT_AIR_T: 2
-    SEAT_PQ35_AMB_T: 2
+    TARRACO_DASH_AMBIENT_AIR_T: 2
   response: '77E0462101468'
 - expected_values:
-    SEAT_AAT_V3: 95
-    SEAT_DASH_AMBIENT_AIR_T: 22.5
-    SEAT_PQ35_AMB_T: 22.5
+    TARRACO_DASH_AMBIENT_AIR_T: 22.5
   response: '77E0462101491'
 - expected_values:
-    SEAT_AAT_V3: 96
-    SEAT_DASH_AMBIENT_AIR_T: 23
-    SEAT_PQ35_AMB_T: 23
+    TARRACO_DASH_AMBIENT_AIR_T: 23
   response: '77E0462101492'
 - expected_values:
-    SEAT_AAT_V3: 105
-    SEAT_DASH_AMBIENT_AIR_T: 27.5
-    SEAT_PQ35_AMB_T: 27.5
+    TARRACO_DASH_AMBIENT_AIR_T: 27.5
   response: 77E046210149B

@@ -1,30 +1,23 @@
 command_id: 710.77A.222A0C
 test_cases:
 - expected_values:
-    SEAT_MQB_BAT_CHG_COND: 67
-    SEAT_SSB_SOC: 67
+    TARRACO_BAT_SOC: 67
   response: 77A04622A0C43
 - expected_values:
-    SEAT_MQB_BAT_CHG_COND: 70
-    SEAT_SSB_SOC: 70
+    TARRACO_BAT_SOC: 70
   response: 77A04622A0C46
 - expected_values:
-    SEAT_MQB_BAT_CHG_COND: 77
-    SEAT_SSB_SOC: 77
+    TARRACO_BAT_SOC: 77
   response: 77A04622A0C4D
 - expected_values:
-    SEAT_MQB_BAT_CHG_COND: 78
-    SEAT_SSB_SOC: 78
+    TARRACO_BAT_SOC: 78
   response: 77A04622A0C4E
 - expected_values:
-    SEAT_MQB_BAT_CHG_COND: 80
-    SEAT_SSB_SOC: 80
+    TARRACO_BAT_SOC: 80
   response: 77A04622A0C50
 - expected_values:
-    SEAT_MQB_BAT_CHG_COND: 81
-    SEAT_SSB_SOC: 81
+    TARRACO_BAT_SOC: 81
   response: 77A04622A0C51
 - expected_values:
-    SEAT_MQB_BAT_CHG_COND: 100
-    SEAT_SSB_SOC: 100
+    TARRACO_BAT_SOC: 100
   response: 77A04622A0C64

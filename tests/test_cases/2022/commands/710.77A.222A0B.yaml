@@ -1,20 +1,20 @@
 command_id: 710.77A.222A0B
 test_cases:
 - expected_values:
-    SEAT_SSB_T: -40
+    TARRACO_BAT_T: -40
   response: 77A04622A0B00
 - expected_values:
-    SEAT_SSB_T: 4
+    TARRACO_BAT_T: 4
   response: 77A04622A0B2C
 - expected_values:
-    SEAT_SSB_T: 7
+    TARRACO_BAT_T: 7
   response: 77A04622A0B2F
 - expected_values:
-    SEAT_SSB_T: 15
+    TARRACO_BAT_T: 15
   response: 77A04622A0B37
 - expected_values:
-    SEAT_SSB_T: 35
+    TARRACO_BAT_T: 35
   response: 77A04622A0B4B
 - expected_values:
-    SEAT_SSB_T: 36
+    TARRACO_BAT_T: 36
   response: 77A04622A0B4C

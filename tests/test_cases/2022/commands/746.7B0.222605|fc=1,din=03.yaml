@@ -1,38 +1,29 @@
 command_id: 746.7B0.222605|fc=1,din=03
 test_cases:
 - expected_values:
-    SEAT_CLIMATE_REFRIG_P: 3.4
-    SEAT_PQ35_REF_P: 3.4
+    TARRACO_CLIMATE_REFRIG_P: 3.4
   response: 7B00462260511
 - expected_values:
-    SEAT_CLIMATE_REFRIG_P: 3.6
-    SEAT_PQ35_REF_P: 3.6
+    TARRACO_CLIMATE_REFRIG_P: 3.6
   response: 7B00462260512
 - expected_values:
-    SEAT_CLIMATE_REFRIG_P: 4.2
-    SEAT_PQ35_REF_P: 4.2
+    TARRACO_CLIMATE_REFRIG_P: 4.2
   response: 7B00462260515
 - expected_values:
-    SEAT_CLIMATE_REFRIG_P: 4.6
-    SEAT_PQ35_REF_P: 4.6
+    TARRACO_CLIMATE_REFRIG_P: 4.6
   response: 7B00462260517
 - expected_values:
-    SEAT_CLIMATE_REFRIG_P: 8
-    SEAT_PQ35_REF_P: 8
+    TARRACO_CLIMATE_REFRIG_P: 8
   response: 7B00462260528
 - expected_values:
-    SEAT_CLIMATE_REFRIG_P: 8.4
-    SEAT_PQ35_REF_P: 8.4
+    TARRACO_CLIMATE_REFRIG_P: 8.4
   response: 7B0046226052A
 - expected_values:
-    SEAT_CLIMATE_REFRIG_P: 8.8
-    SEAT_PQ35_REF_P: 8.8
+    TARRACO_CLIMATE_REFRIG_P: 8.8
   response: 7B0046226052C
 - expected_values:
-    SEAT_CLIMATE_REFRIG_P: 9
-    SEAT_PQ35_REF_P: 9
+    TARRACO_CLIMATE_REFRIG_P: 9
   response: 7B0046226052D
 - expected_values:
-    SEAT_CLIMATE_REFRIG_P: 9.6
-    SEAT_PQ35_REF_P: 9.6
+    TARRACO_CLIMATE_REFRIG_P: 9.6
   response: 7B00462260530

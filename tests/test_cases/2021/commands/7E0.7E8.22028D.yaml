@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22028D
 test_cases:
 - expected_values:
-    SEAT_ECU_TEMP: 289.1
+    TARRACO_ENG_CTRL_MODULE_T: 289.1
   response: 7E80562028D0B4B
 - expected_values:
-    SEAT_ECU_TEMP: 295.9
+    TARRACO_ENG_CTRL_MODULE_T: 295.9
   response: 7E80562028D0B8F

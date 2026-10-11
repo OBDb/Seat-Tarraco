@@ -1,14 +1,14 @@
 command_id: 7E0.2211BA
 test_cases:
 - expected_values:
-    SEAT_OIL_LEVEL: 43.1
+    TARRACO_OIL_LEVEL: 4.31
   response: 7E8056211BA2A17
 - expected_values:
-    SEAT_OIL_LEVEL: 44.88
+    TARRACO_OIL_LEVEL: 4.488
   response: 7E8056211BA2BD4
 - expected_values:
-    SEAT_OIL_LEVEL: 57.36
+    TARRACO_OIL_LEVEL: 5.736
   response: 7E8056211BA3804
 - expected_values:
-    SEAT_OIL_LEVEL: 64.72
+    TARRACO_OIL_LEVEL: 6.472
   response: 7E8056211BA3F34

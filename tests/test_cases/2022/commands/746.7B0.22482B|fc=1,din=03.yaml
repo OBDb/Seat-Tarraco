@@ -1,11 +1,11 @@
 command_id: 746.7B0.22482B|fc=1,din=03
 test_cases:
 - expected_values:
-    SEAT_PQ35_AC_CLUTCH: 0
+    TARRACO_CLIMATE_A_C_CLCH: 0
   response: 7B00462482B00
 - expected_values:
-    SEAT_PQ35_AC_CLUTCH: 1
+    TARRACO_CLIMATE_A_C_CLCH: 1
   response: 7B00462482B01
 - expected_values:
-    SEAT_PQ35_AC_CLUTCH: 255
+    TARRACO_CLIMATE_A_C_CLCH: 255
   response: 7B00462482BFF

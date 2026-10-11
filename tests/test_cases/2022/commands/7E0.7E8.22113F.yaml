@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22113F
 test_cases:
 - expected_values:
-    SEAT_FUEL_CONS: 0
+    TARRACO_FUEL_CONS: 0
   response: 7E80562113F0000
 - expected_values:
-    SEAT_FUEL_CONS: 4.69
+    TARRACO_FUEL_CONS: 4.69
   response: 7E80562113F01D5
 - expected_values:
-    SEAT_FUEL_CONS: 13.89
+    TARRACO_FUEL_CONS: 13.89
   response: 7E80562113F056D

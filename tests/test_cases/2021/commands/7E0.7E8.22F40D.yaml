@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F40D
 test_cases:
 - expected_values:
-    SEAT_VSS: 0
+    TARRACO_VSS: 0
   response: 7E80462F40D00
 - expected_values:
-    SEAT_VSS: 1
+    TARRACO_VSS: 1
   response: 7E80462F40D01
 - expected_values:
-    SEAT_VSS: 13
+    TARRACO_VSS: 13
   response: 7E80462F40D0D
 - expected_values:
-    SEAT_VSS: 19
+    TARRACO_VSS: 19
   response: 7E80462F40D13

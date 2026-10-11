@@ -1,14 +1,11 @@
 command_id: 746.7B0.222613|fc=1
 test_cases:
 - expected_values:
-    SEAT_CABIN_T: 0.2
-    SEAT_HVAC_INTERIOR_T: 0.2
+    TARRACO_CABIN_T: 0.2
   response: 7B0056226130002
 - expected_values:
-    SEAT_CABIN_T: 7.1
-    SEAT_HVAC_INTERIOR_T: 7.1
+    TARRACO_CABIN_T: 7.1
   response: 7B0056226130047
 - expected_values:
-    SEAT_CABIN_T: 28
-    SEAT_HVAC_INTERIOR_T: 28
+    TARRACO_CABIN_T: 28
   response: 7B0056226130118

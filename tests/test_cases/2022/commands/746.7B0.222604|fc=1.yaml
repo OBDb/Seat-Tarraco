@@ -1,26 +1,26 @@
 command_id: 746.7B0.222604|fc=1
 test_cases:
 - expected_values:
-    SEAT_PQ35_AC_COMP_LOAD: 0
+    TARRACO_CLIMATE_A_C_COMP_LOAD: 0
   response: 7B00462260400
 - expected_values:
-    SEAT_PQ35_AC_COMP_LOAD: 4.6
+    TARRACO_CLIMATE_A_C_COMP_LOAD: 4.6
   response: 7B0046226042E
 - expected_values:
-    SEAT_PQ35_AC_COMP_LOAD: 4.8
+    TARRACO_CLIMATE_A_C_COMP_LOAD: 4.8
   response: 7B00462260430
 - expected_values:
-    SEAT_PQ35_AC_COMP_LOAD: 4.9
+    TARRACO_CLIMATE_A_C_COMP_LOAD: 4.9
   response: 7B00462260431
 - expected_values:
-    SEAT_PQ35_AC_COMP_LOAD: 6.3
+    TARRACO_CLIMATE_A_C_COMP_LOAD: 6.3
   response: 7B0046226043F
 - expected_values:
-    SEAT_PQ35_AC_COMP_LOAD: 6.5
+    TARRACO_CLIMATE_A_C_COMP_LOAD: 6.5
   response: 7B00462260441
 - expected_values:
-    SEAT_PQ35_AC_COMP_LOAD: 6.9
+    TARRACO_CLIMATE_A_C_COMP_LOAD: 6.9
   response: 7B00462260445
 - expected_values:
-    SEAT_PQ35_AC_COMP_LOAD: 7.4
+    TARRACO_CLIMATE_A_C_COMP_LOAD: 7.4
   response: 7B0046226044A

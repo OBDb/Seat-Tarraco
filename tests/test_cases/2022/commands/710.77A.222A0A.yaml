@@ -1,26 +1,26 @@
 command_id: 710.77A.222A0A
 test_cases:
 - expected_values:
-    SEAT_SSB_SENSOR_T: -40
+    TARRACO_MQB_BAT_SEN_T: -40
   response: 77A04622A0A00
 - expected_values:
-    SEAT_SSB_SENSOR_T: 3
+    TARRACO_MQB_BAT_SEN_T: 3
   response: 77A04622A0A2B
 - expected_values:
-    SEAT_SSB_SENSOR_T: 4
+    TARRACO_MQB_BAT_SEN_T: 4
   response: 77A04622A0A2C
 - expected_values:
-    SEAT_SSB_SENSOR_T: 6
+    TARRACO_MQB_BAT_SEN_T: 6
   response: 77A04622A0A2E
 - expected_values:
-    SEAT_SSB_SENSOR_T: 16
+    TARRACO_MQB_BAT_SEN_T: 16
   response: 77A04622A0A38
 - expected_values:
-    SEAT_SSB_SENSOR_T: 18
+    TARRACO_MQB_BAT_SEN_T: 18
   response: 77A04622A0A3A
 - expected_values:
-    SEAT_SSB_SENSOR_T: 28
+    TARRACO_MQB_BAT_SEN_T: 28
   response: 77A04622A0A44
 - expected_values:
-    SEAT_SSB_SENSOR_T: 29
+    TARRACO_MQB_BAT_SEN_T: 29
   response: 77A04622A0A45

@@ -1,11 +1,11 @@
 command_id: 710.77A.222A0F
 test_cases:
 - expected_values:
-    SEAT_SSB_AH: 46
+    TARRACO_USE_BAT_CHG: 46
   response: 77A04622A0F2E
 - expected_values:
-    SEAT_SSB_AH: 47
+    TARRACO_USE_BAT_CHG: 47
   response: 77A04622A0F2F
 - expected_values:
-    SEAT_SSB_AH: 52
+    TARRACO_USE_BAT_CHG: 52
   response: 77A04622A0F34

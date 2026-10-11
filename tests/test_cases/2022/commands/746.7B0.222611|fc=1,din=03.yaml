@@ -1,10 +1,8 @@
 command_id: 746.7B0.222611|fc=1,din=03
 test_cases:
 - expected_values:
-    SEAT_LEG_DEFLECTOR_T: 1.33333
-    SEAT_PQ35_LEG_DEFL_T: 1.332
+    TARRACO_CLIMATE_LEG_DEFL_T: 1.33333
   response: 7B00462261104
 - expected_values:
-    SEAT_LEG_DEFLECTOR_T: 48.66667
-    SEAT_PQ35_LEG_DEFL_T: 48.618
+    TARRACO_CLIMATE_LEG_DEFL_T: 48.66667
   response: 7B00462261192

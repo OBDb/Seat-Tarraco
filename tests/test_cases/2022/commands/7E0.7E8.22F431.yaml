@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F431
 test_cases:
 - expected_values:
-    SEAT_CLR_DIST: 9353
+    TARRACO_CLR_DIST: 9353
   response: 7E80562F4312489
 - expected_values:
-    SEAT_CLR_DIST: 39421
+    TARRACO_CLR_DIST: 39421
   response: 7E80562F43199FD
 - expected_values:
-    SEAT_CLR_DIST: 39430
+    TARRACO_CLR_DIST: 39430
   response: 7E80562F4319A06
 - expected_values:
-    SEAT_CLR_DIST: 52107
+    TARRACO_CLR_DIST: 52107
   response: 7E80562F431CB8B

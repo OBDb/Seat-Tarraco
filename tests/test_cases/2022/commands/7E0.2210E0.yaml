@@ -1,18 +1,14 @@
 command_id: 7E0.2210E0
 test_cases:
 - expected_values:
-    SEAT_ODO_2: 63247
-    SEAT_ODO_V3: 63247
+    TARRACO_ODO: 63247
   response: 7E8076210E00000F70F
 - expected_values:
-    SEAT_ODO_2: 71465
-    SEAT_ODO_V3: 71465
+    TARRACO_ODO: 71465
   response: 7E8076210E000011729
 - expected_values:
-    SEAT_ODO_2: 75994
-    SEAT_ODO_V3: 75994
+    TARRACO_ODO: 75994
   response: 7E8076210E0000128DA
 - expected_values:
-    SEAT_ODO_2: 76001
-    SEAT_ODO_V3: 76001
+    TARRACO_ODO: 76001
   response: 7E8076210E0000128E1

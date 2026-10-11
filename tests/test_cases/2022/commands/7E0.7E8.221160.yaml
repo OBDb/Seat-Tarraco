@@ -1,20 +1,20 @@
 command_id: 7E0.7E8.221160
 test_cases:
 - expected_values:
-    SEAT_ODO_HD: 63072.69
+    TARRACO_ODO_HD: 63072690
   response: 7E80762116003C269B2
 - expected_values:
-    SEAT_ODO_HD: 63100.929
+    TARRACO_ODO_HD: 63100929
   response: 7E80762116003C2D801
 - expected_values:
-    SEAT_ODO_HD: 63111.152
+    TARRACO_ODO_HD: 63111152
   response: 7E80762116003C2FFF0
 - expected_values:
-    SEAT_ODO_HD: 63119.631
+    TARRACO_ODO_HD: 63119631
   response: 7E80762116003C3210F
 - expected_values:
-    SEAT_ODO_HD: 71373.003
+    TARRACO_ODO_HD: 71373003
   response: 7E807621160044110CB
 - expected_values:
-    SEAT_ODO_HD: 75787.326
+    TARRACO_ODO_HD: 75787326
   response: 7E80762116004846C3E

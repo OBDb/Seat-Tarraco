@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22F41F
 test_cases:
 - expected_values:
-    SEAT_RUNTM: 0
+    TARRACO_RUNTM: 0
   response: 7E80562F41F0000
 - expected_values:
-    SEAT_RUNTM: 3318
+    TARRACO_RUNTM: 3318
   response: 7E80562F41F0CF6
 - expected_values:
-    SEAT_RUNTM: 3370
+    TARRACO_RUNTM: 3370
   response: 7E80562F41F0D2A

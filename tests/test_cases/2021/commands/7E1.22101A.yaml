@@ -1,11 +1,11 @@
 command_id: 7E1.22101A
 test_cases:
 - expected_values:
-    TARRACO_PQ35_ODO_3: 13168129
+    TARRACO_PQ35_ODO_3: 126664
   response: 7E90762101AC8EE0100
 - expected_values:
-    TARRACO_PQ35_ODO_3: 13299201
+    TARRACO_PQ35_ODO_3: 126666
   response: 7E90762101ACAEE0100
 - expected_values:
-    TARRACO_PQ35_ODO_3: 13364737
+    TARRACO_PQ35_ODO_3: 126667
   response: 7E90762101ACBEE0100

@@ -2072,7 +2072,7 @@
   ]},
 { "hdr": "7E1", "cmd": {"22": "101A"}, "freq": 30, "dbgfilter": { "to": 2020, "from": 2023 },
   "signals": [
-    {"id": "TARRACO_PQ35_ODO_3", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer #3", "suggestedMetric": "odometer"}
+    {"id": "TARRACO_PQ35_ODO_3", "path": "Trips", "fmt": { "len": 24, "blsb": true, "max": 16777215, "unit": "kilometers" }, "name": "Odometer #3", "suggestedMetric": "odometer"}
   ]},
 { "hdr": "7E1", "cmd": {"22": "2104"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2023 },
   "signals": [
@@ -2080,7 +2080,7 @@
   ]},
 { "hdr": "7E1", "cmd": {"22": "3841"}, "freq": 30, "dbgfilter": { "to": 2020, "from": 2023 },
   "signals": [
-    {"id": "TARRACO_MQB_TCM_ODO", "path": "Trips", "fmt": { "len": 32, "max": 429496729.5, "div": 10, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
+    {"id": "TARRACO_MQB_TCM_ODO", "path": "Trips", "fmt": { "len": 32, "blsb": true, "max": 429496729.5, "div": 10, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
 { "hdr": "7E1", "cmd": {"22": "3887"}, "freq": 30, "dbgfilter": { "to": 2020, "from": 2023 },
   "signals": [
